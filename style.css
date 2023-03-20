@@ -1,0 +1,16 @@
+ body {
+        background-color: rgb(179, 249, 179);
+    }
+    p{
+        color: #d991ef; 
+        font-size:x-large;
+    }
+    h1{
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .escarcha {
+        font-size: 30px;
+    }
+    .magdalena{
+        font-size: 50px;
+    }
